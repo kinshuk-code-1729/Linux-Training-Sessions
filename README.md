@@ -1,1 +1,1 @@
-# Linux-Training-Sessions
+# ✨ Linux-Training-Sessions ✨
