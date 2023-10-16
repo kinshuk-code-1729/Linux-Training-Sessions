@@ -86,3 +86,9 @@ ls
 script day1_commands
 exit
 ls
+cal
+date
+pwd
+who
+whoami
+exit
