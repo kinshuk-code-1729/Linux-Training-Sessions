@@ -1,16 +1,16 @@
 # ✨ Linux-Training-Sessions ✨
 ## ⚛️ Day 1 Commands :
 - *cal*
-- date
+- _date_
 - *echo*
-- clear
+- _clear_
 - *script*
-- ls
+- _ls_
 - *who*
-- whoami
+- _whoami_
 - *tty*
-- uname & uname -r
+- _uname & uname -r_
 - *cd*
-- mkdir
+- _mkdir_
 - *rmdir*
-- rm -r
+- _rm -r_
