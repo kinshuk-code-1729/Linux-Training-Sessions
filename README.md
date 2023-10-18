@@ -45,5 +45,5 @@
 - ***rm -i* for interactive delete**
 - **character class :**
   - ????? placeholders
-  - * to denote all
+  - asterisks(**) to denote all
       
