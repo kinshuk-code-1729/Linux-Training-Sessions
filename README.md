@@ -17,14 +17,14 @@
 
 ## ⚛️ Day 2 Commands :
 - *man*
-- *ls options*
+- ***ls* options :**
   - ls -l
   - ls -a
   - ls -author
   - ls -C
   - ls -d
   - ls -r
-- **file creation through *cat* command**
+- **file creation through *cat* command :**
   - cat > (to overwrite)
   - cat >> (to append)
   - cat (to view)
@@ -32,7 +32,7 @@
 - *cp*
 - *mv*
 - *file*
-- ***wc* command**
+- ***wc* command :**
   - wc -l
   - wc -w
   - wc -c
@@ -46,4 +46,3 @@
 - **character class :**
   - ????? placeholders
   - asterisks(**) to denote all
-      
