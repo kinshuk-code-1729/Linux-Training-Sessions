@@ -18,26 +18,26 @@
 ## ⚛️ Day 2 Commands :
 - *man*
 - ***ls* options :**
-  - ls -l
-  - ls -a
-  - ls -author
-  - ls -C
-  - ls -d
-  - ls -r
+  - _ls -l_
+  - _ls -a_
+  - _ls -author_
+  - _ls -C_
+  - _ls -d_
+  - _ls -r_
 - **file creation through *cat* command :**
-  - cat > (to overwrite)
-  - cat >> (to append)
-  - cat (to view)
+  - _cat >_ (to overwrite)
+  - _cat >>_ (to append)
+  - _cat_ (to view)
 - **empty file creation using *touch* command**
 - *cp*
 - *mv*
 - *file*
 - ***wc* command :**
-  - wc -l
-  - wc -w
-  - wc -c
-  - wc -m
-  - wc -L
+  - _wc -l_
+  - _wc -w_
+  - _wc -c_
+  - _wc -m_
+  - _wc -L_
 - *cmp*
 - *comm*
 - *sort*
