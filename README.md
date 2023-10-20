@@ -48,22 +48,22 @@
   - asterisks(**) to denote all
 
 ## ⚛️ Day 3 Commands :
-- chmod
-  - relative permission
-    - using ±r or ±w or ±x with ugo or a
-    - using ugo/a = ±r or ±w or ±x
-  - absolute permission using numbers
-    - 4 : read (r--)
-    - 2 : write (-w-)
-    - 1 : execute (--x)
-      - 3 (2+1) : write & execute (-wx)
-      - 5 (4+1) : read & execute (r-x)
-      - 6 (4+2) : read & write (rw-)
-      - 7 (4+2+1) : read, write & execute (rwx)
-- chmod -R to assign same permissions of root directory to sub-directories
-- umask
-- ls -ls
-- redirect using > and >>
+- *chmod* **(change mode) :**
+  - **relative permission :**
+    - using *±r* or *±w* or *±x* with ***ugo*** or ***a***
+    - using ***ugo/a*** = *±r* or *±w* or *±x*
+  - **absolute permission using numbers :**
+    - **4 : read (*r--*)**
+    - **2 : write (*-w-*)**
+    - **1 : execute (*--x*)**
+      - **3 (2+1) : write & execute (*-wx*)**
+      - **5 (4+1) : read & execute (*r-x*)**
+      - **6 (4+2) : read & write (*rw-*)**
+      - **7 (4+2+1) : read, write & execute (*rwx*)**
+- *chmod -R* to assign same permissions of **root directory** to **sub-directories :**
+- *umask*
+- *ls -ls*
+- **redirection of output using *>* and *>>***
 - character class
   - [0-9] for digits (same as [!a-z])
   - [a-z] for chars (same as [!0-9])
