@@ -64,6 +64,6 @@
 - *umask*
 - *ls -ls*
 - **redirection of output using *>* and *>>***
-- character class
-  - [0-9] for digits (same as [!a-z])
-  - [a-z] for chars (same as [!0-9])
+- **Character class :**
+  - **[0-9]** for digits (same as **[!a-z]**).
+  - **[a-z]** for chars (same as **[!0-9]**).
