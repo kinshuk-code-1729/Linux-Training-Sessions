@@ -69,4 +69,8 @@
   - **[a-z]** for chars (same as **[!0-9]**).
 
 ## ⚛️ Day 4 Commands :
-- Linux- Vi Editor
+- Linux- Vi Editor ( it has three modes of operation) :
+  - Command mode
+  - Insert mode
+  - Esc mode
+- vi <filename>
