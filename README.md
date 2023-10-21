@@ -70,7 +70,7 @@
 
 ## ⚛️ Day 4 Commands :
 - Linux- Vi Editor ( it has three modes of operation) :
-  - Command mode
-  - Insert mode
-  - Esc mode
-- vi <filename>
+  - Command mode : Operations such as cut, copy, paste, delete, undo, redo etc.
+  - Insert mode : Type in new text.
+  - Esc mode : Extended commands for saving, exiting,  search-and-replace can executed here.
+- vi <filename> to open a file.
