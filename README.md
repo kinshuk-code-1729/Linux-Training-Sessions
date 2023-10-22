@@ -69,8 +69,8 @@
   - **[a-z]** for chars (same as **[!0-9]**).
 
 ## ⚛️ Day 4 Commands :
-- Linux- Vi Editor ( it has three modes of operation) :
-  - Command mode : Operations such as cut, copy, paste, delete, undo, redo etc.
-  - Insert mode : Type in new text.
-  - Esc mode : Extended commands for saving, exiting,  search-and-replace can executed here.
-- vi <filename> to open a file.
+- **Linux- Vi Editor** _(it has three modes of operation)_ :
+  - **_Command mode_ :** Operations such as cut, copy, paste, delete, undo, redo etc.
+  - **_Insert mode_ :** Type in new text.
+  - **_Esc mode_ :** Extended commands for saving, exiting,  search-and-replace can executed here.
+- _vi <filename>_ to open a file.
