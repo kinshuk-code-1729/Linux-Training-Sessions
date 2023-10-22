@@ -74,3 +74,14 @@
   - **_Insert mode_ :** Type in new text.
   - **_Esc mode_ :** Extended commands for saving, exiting,  search-and-replace can executed here.
 - _vi <filename>_ to open a file.
+- **Input Mode Commands :**
+  - i
+  - a
+  - I
+  - A
+  - o
+  - O
+  - rch
+  - R
+  - s
+  - S 
