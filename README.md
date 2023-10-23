@@ -75,9 +75,9 @@
   - **_Esc mode_ :** Extended commands for saving, exiting,  search-and-replace can executed here.
 - _vi <filename>_ to open a file.
 - **Input Mode Commands :**
-  - i
-  - a
-  - I
+  - i : Insert text to left of the cursor(Existing text shifted right).
+  - a : Append text to right of cursor(Existing text shifted right).
+  - I : Insert text at the beginning of line.
   - A
   - o
   - O
