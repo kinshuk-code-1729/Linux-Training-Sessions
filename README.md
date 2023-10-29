@@ -1,4 +1,4 @@
-![image](https://github.com/kinshuk-code-1729/Linux-Training-Sessions/assets/90320839/6637d0cc-e864-4a02-9e65-2dfa5e5b9c84)# ✨ Linux-Training-Sessions ✨
+# ✨ Linux-Training-Sessions ✨
 ## ⚛️ Day 1 Commands :
 - *cal*
 - _date_
