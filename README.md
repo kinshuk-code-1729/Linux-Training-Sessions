@@ -78,10 +78,10 @@
   - **_i :_** Insert text to left of the cursor(Existing text shifted right).
   - **_a :_** Append text to right of cursor(Existing text shifted right).
   - **_I :_** Insert text at the beginning of line.
-  - A : Append text at the end of the line.
-  - o : Open line below.
-  - O : Open line above
-  - rch : Replaces single character under cursor with ch.
+  - **_A_** : Append text at the end of the line.
+  - **_o_** : Open line below.
+  - **_O_** : Open line above
+  - **_rch_** : Replaces single character under cursor with ch.
   - R 
   - s
   - S 
