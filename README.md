@@ -1,4 +1,4 @@
-# ✨ Linux-Training-Sessions ✨
+![image](https://github.com/kinshuk-code-1729/Linux-Training-Sessions/assets/90320839/6637d0cc-e864-4a02-9e65-2dfa5e5b9c84)# ✨ Linux-Training-Sessions ✨
 ## ⚛️ Day 1 Commands :
 - *cal*
 - _date_
@@ -78,10 +78,10 @@
   - **_i :_** Insert text to left of the cursor(Existing text shifted right).
   - **_a :_** Append text to right of cursor(Existing text shifted right).
   - **_I :_** Insert text at the beginning of line.
-  - A
-  - o
-  - O
-  - rch
-  - R
+  - A : Append text at the end of the line.
+  - o : Open line below.
+  - O : Open line above
+  - rch : Replaces single character under cursor with ch.
+  - R 
   - s
   - S 
