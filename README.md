@@ -87,3 +87,11 @@
   - **_S_** : Replaces entire line.
  
 ## ⚛️ Day 5 Commands :
+- **_grep_** command
+  - grep -v
+  - grep -e
+  - grep -n
+  - grep -c
+  - grep "^pattern"
+  - grep "pattern$"
+  - grep "pattern1" <filename>|grep "pattern2" <filename>  (pipe opeartor redirection used).
