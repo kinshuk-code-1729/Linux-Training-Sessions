@@ -85,3 +85,5 @@
   - **_R_** : Replaces text from cursor to right.
   - **_s_** : Replaces single character under cursor with any number of characters.
   - **_S_** : Replaces entire line.
+ 
+## ⚛️ Day 5 Commands :
