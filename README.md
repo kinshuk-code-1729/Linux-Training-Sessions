@@ -82,6 +82,6 @@
   - **_o_** : Open line below.
   - **_O_** : Open line above
   - **_rch_** : Replaces single character under cursor with ch.
-  - R 
-  - s
-  - S 
+  - R : Replaces text from cursor to right.
+  - s : Replaces single character under cursor with any number of characters.
+  - S : Replaces entire line.
