@@ -49,9 +49,9 @@
 
 ## ⚛️ Day 3 Commands :
 - *chmod* **(change mode) :**
-  - **relative permission :**
-    - using *±r* or *±w* or *±x* with ***ugo*** or ***a***
-    - using ***ugo/a*** = *±r* or *±w* or *±x*
+  - **relative permission : ('+' symbol is used _add_ and '-' symbol is used to _remove_ a specific permission from _user_ , _group_ or _others_.)**
+    - using *±r* or *±w* or *±x* with ***ugo*** or ***a***. ( **_'a'_** stands for **all** , i.e., **_'u'_(user)**, **_'g'_(group)** & **_'o'_(others)**. )
+    - using ***ugo/a*** = *±r* or *±w* or *±x*.
   - **absolute permission using numbers :**
     - **4 : read (*r--*)**
     - **2 : write (*-w-*)**
@@ -95,4 +95,4 @@
   - ***grep -i* :** Ignores case distinctions in patterns and input data.
   - ***grep "^pattern"*** (find specified pattern at the beginning).
   - ***grep "pattern$"*** (find specified pattern at the end).
-  - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe opeartor redirection used).
+  - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
