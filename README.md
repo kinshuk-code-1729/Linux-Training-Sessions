@@ -88,10 +88,11 @@
  
 ## ⚛️ Day 5 Commands :
 - **_grep_** command
-  - grep -v
-  - grep -e
-  - grep -n
-  - grep -c
-  - grep "^pattern"
-  - grep "pattern$"
+  - grep -v : Selects the non-matching lines of the provided input pattern.
+  - grep -e : Union two grep patterns.
+  - grep -n : Prefix each line of the matching output with the line number in the input file.
+  - grep -c : Count number of lines matching to given pattern.
+  - grep -i : Ignores case distinctions in patterns and input data.
+  - grep "^pattern" (find specified pattern at the beginning).
+  - grep "pattern$" (find specified pattern at the end).
   - grep "pattern1" <filename>|grep "pattern2" <filename>  (pipe opeartor redirection used).
