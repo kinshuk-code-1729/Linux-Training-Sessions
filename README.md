@@ -1,12 +1,12 @@
 # ✨ Linux-Training-Sessions ✨
 ## ⚛️ Day 1 Commands :
-- *cal*
-- _date_
-- *echo*
-- _clear_
-- *script*
-- _ls_
-- *who*
+- *cal* : Prints an ASCII calendar of the given month or year.
+- _date_ : Displays the current date and time.
+- *echo* : Displays lines of text or string which are passed as arguments on the command line.
+- _clear_ : Brings the command line on top of the computer terminal.
+- *script* : Makes typescript or records all the terminal activities.
+- _ls_ : Lists directory contents of files and directories.
+- *who* : Prints information about users who are currently logged in.
 - _whoami_
 - *tty*
 - _uname & uname -r_
