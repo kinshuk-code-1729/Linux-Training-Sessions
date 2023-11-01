@@ -7,12 +7,12 @@
 - ***script* :** Makes typescript or records all the terminal activities.
 - **_ls_ :** Lists directory contents of files and directories.
 - ***who* :** Prints information about users who are currently logged in.
-- _whoami_ : Allows Linux users to see the currently logged-in user.
-- ***tty* :  Any terminal on Linux/Unix systems.
-- **_uname & uname -r_ : displays the information about the system. Option -r displays the Linux kernel release info.
+- **_whoami_ :** Allows Linux users to see the currently logged-in user.
+- ***tty* :**  Any terminal on Linux/Unix systems.
+- **_uname & uname -r_ :** displays the information about the system. Option -r displays the Linux kernel release info.
 - ***cd* (change directory) :** Used to move efficiently from the current working directory to different directories in our System.
 - **_mkdir_ :** Creates multiple directories in the current location.
-- ***rmdir*** :** Removes the directory, specified by the Directory parameter, from the system.
+- ***rmdir* :** Removes the directory, specified by the Directory parameter, from the system.
 - **_rm -r_ :** It will recursively delete a directory and all its contents.
 
 ## ⚛️ Day 2 Commands :
