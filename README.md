@@ -16,31 +16,31 @@
 - **_rm -r_ :** It will recursively delete a directory and all its contents.
 
 ## ⚛️ Day 2 Commands :
-- *man*
+- **_man_ :** Used to display the user manual of any command that we can run on the terminal.
 - ***ls* options :**
-  - _ls -l_
-  - _ls -a_
-  - _ls -author_
-  - _ls -C_
-  - _ls -d_
-  - _ls -r_
+  - **_ls -l_ :** Displays the contents of the current directory in a long listing format, one per line (show permissions).
+  - **_ls -a_ :** Lists all files including hidden files _(files with names beginning with a dot)._
+  - **_ls -author_ :** Lists the contents in the specified directory along with its owner.
+  - **_ls -C_ :** Lists entries by columns.
+  - **_ls -d_ :** Lists directories - with ' */'.
+  - **_ls -r_ :** It is used to print the list in reverse order.
 - **file creation through *cat* command :**
   - _cat >_ (to overwrite)
   - _cat >>_ (to append)
   - _cat_ (to view)
 - **empty file creation using *touch* command**
-- *cp*
-- *mv*
-- *file*
+- *cp* : **cp** stands for a copy. This command is used to copy files or groups of files or directories.
+- *mv* : Moves files and directories from one directory to another or renames a file or directory.
+- *file* : Used to determine the type of a file.
 - ***wc* command :**
-  - _wc -l_
-  - _wc -w_
-  - _wc -c_
-  - _wc -m_
-  - _wc -L_
-- *cmp*
-- *comm*
-- *sort*
+  - **_wc -l_ :**
+  - **_wc -w_ :**
+  - **_wc -c_ :**
+  - **_wc -m_ :**
+  - **_wc -L_ :**
+- **_cmp :_**
+- **_comm :_**
+- **_sort :_**
 - **redirection operator _>_**
 - ***rm -i* for interactive delete**
 - **character class :**
@@ -96,3 +96,4 @@
   - ***grep "^pattern"*** (find specified pattern at the beginning).
   - ***grep "pattern$"*** (find specified pattern at the end).
   - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
+ 
