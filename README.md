@@ -48,7 +48,7 @@
   - asterisks(**) to denote all
 
 ## ⚛️ Day 3 Commands :
-- ***chmod*(change mode) :**
+- ***chmod* (change mode) :**
   - **relative permission :** ('+' symbol is used _add_ and '-' symbol is used to _remove_ a specific permission from _user_ , _group_ or _others_.)
     - using ***±r*** or ***±w*** or ***±x*** with ***ugo*** or ***a***. ( **_'a'_** stands for **all** , i.e., **_'u'_(user)**, **_'g'_(group)** & **_'o'_(others)**. )
     - using ***ugo/a*** = ***±r*** or ***±w*** or ***±x***.
