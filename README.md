@@ -96,3 +96,11 @@
   - ***grep "^pattern"*** (find specified pattern at the beginning).
   - ***grep "pattern$"*** (find specified pattern at the end).
   - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
+
+## ⚛️ Day 6 Commands :
+
+
+## ⚛️ Day 7 Commands :
+
+
+## ⚛️ Day 8 Commands :
