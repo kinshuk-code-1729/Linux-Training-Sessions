@@ -25,13 +25,13 @@
   - **_ls -d_ :** Lists directories - with ' */'.
   - **_ls -r_ :** It is used to print the list in reverse order.
 - **file creation through *cat* command :**
-  - _cat >_ (to overwrite)
-  - _cat >>_ (to append)
-  - _cat_ (to view)
-- **empty file creation using *touch* command**
-- *cp* : **cp** stands for a copy. This command is used to copy files or groups of files or directories.
-- *mv* : Moves files and directories from one directory to another or renames a file or directory.
-- *file* : Used to determine the type of a file.
+  - **_cat >_** (to overwrite)
+  - **_cat >>_** (to append)
+  - **_cat_** (to view)
+- Empty file creation using ***touch*** command.
+- ***cp*** : **cp** stands for a copy. This command is used to copy files or groups of files or directories.
+- ***mv*** : Moves files and directories from one directory to another or renames a file or directory.
+- ***file*** : Used to determine the type of a file.
 - ***wc* command :** (stands for word count)
   - **_wc -l_ :** Prints the number of lines in a file.
   - **_wc -w_ :** Prints the number of words in a file.
@@ -42,7 +42,7 @@
 - **_comm :_** Compares two sorted files line by line and writes to standard output; the lines that are common and the lines that are unique.
 - **_sort :_** Prints the lines of its input or concatenation of all files listed in its argument list in sorted order.
 - **redirection operator _>_**
-- ***rm -i* for interactive delete**
+- ***rm -i*** for interactive deletion of any file.
 - **character class :**
   - ????? placeholders
   - asterisks(**) to denote all
