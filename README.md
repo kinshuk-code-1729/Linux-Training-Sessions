@@ -60,9 +60,12 @@
       - **5 (4+1) : read & execute (*r-x*)**
       - **6 (4+2) : read & write (*rw-*)**
       - **7 (4+2+1) : read, write & execute (*rwx*)**
-- *chmod -R* to assign same permissions of **root directory** to **sub-directories :**
-- *umask*
-- *ls -ls*
+- ***chmod -R* :** To assign same permissions of **root directory** to **sub-directories.**
+- ***umask* :** The umask command sets the file-creation mask using this format:
+  - where mask is an **octal number** or **symbolic value** that correspond to the permissions to be disabled.
+  - This umask command adds **write permission to the group**:
+    - With **no arguments,** umask displays the **current** value.
+- ***ls -ls***
 - **redirection of output using *>* and *>>***
 - **Character class :**
   - **[0-9]** for digits (same as **[!a-z]**).
