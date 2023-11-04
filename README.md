@@ -32,15 +32,15 @@
 - *cp* : **cp** stands for a copy. This command is used to copy files or groups of files or directories.
 - *mv* : Moves files and directories from one directory to another or renames a file or directory.
 - *file* : Used to determine the type of a file.
-- ***wc* command :**
-  - **_wc -l_ :**
-  - **_wc -w_ :**
-  - **_wc -c_ :**
-  - **_wc -m_ :**
-  - **_wc -L_ :**
-- **_cmp :_**
-- **_comm :_**
-- **_sort :_**
+- ***wc* command :** (stands for word count)
+  - **_wc -l_ :** Prints the number of lines in a file.
+  - **_wc -w_ :** Prints the number of words in a file.
+  - **_wc -c_ :** Displays the count of bytes in a file.
+  - **_wc -m_ :** Prints the count of characters from a file.
+  - **_wc -L_ :** Prints only the length of the longest line in a file.
+- **_cmp :_** Used to compare two files _byte by byte_ and helps to find out whether the two files are identical or not.
+- **_comm :_** Compares two sorted files line by line and writes to standard output; the lines that are common and the lines that are unique.
+- **_sort :_** Prints the lines of its input or concatenation of all files listed in its argument list in sorted order.
 - **redirection operator _>_**
 - ***rm -i* for interactive delete**
 - **character class :**
@@ -96,4 +96,3 @@
   - ***grep "^pattern"*** (find specified pattern at the beginning).
   - ***grep "pattern$"*** (find specified pattern at the end).
   - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
- 
