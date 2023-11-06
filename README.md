@@ -149,20 +149,14 @@ cat file>file  (earse all the content of file)
 
 
 ## ⚛️ Day 8 Commands :
-process command
-ps
-ps - l
-ps -f (full screen )
-ps -e (all process )
-kill process_id
-kill -9 process_id  (super kill)
-& (at the end of command to make it background process)
-
-
-process scheduling
-
-at   (for one time scheduling)
-batch
-crontab
-
-## ⚛️ Day 9 Commands :
+- process command **ps**
+- ps - l
+- ps -f (full screen )
+- ps -e (all process )
+- kill process_id
+- kill -9 process_id  (super kill)
+- & (at the end of command to make it background process)
+- process scheduling
+- at (for one time scheduling)
+- batch
+- crontab
