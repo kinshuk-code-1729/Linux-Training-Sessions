@@ -101,9 +101,68 @@
   - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
 
 ## ⚛️ Day 6 Commands :
+/dev/null (special file of linux that has size of 0 bytes
+		it's works like insularator)
+/dev/tty (represent the own terminal)
+| (pipe command)
+(
+ls | wc -l
+who |wc -l
+)
 
+tee 	
+ls |tee file
+
+Command Substitution {`}
+
+echo "Number of files are`ls |wc -l` in present directorty"
+
+Shell Variables
+$x 
+expr $x + $y
+expr $x - $y
+expr $x \* $y
+expr $x / $y
+
+exit status of last command
+
+echo $?
+(
+0 -- for successful
+1 -- for i=unsuccessful
+)
+
+x=20;y=30;z=40;m=20
+test $x -eq $y;echo $?   	(equals)
+test $x -ne $y;echo $?		(not equals)
+test $x -gt $y;echo $?		(greater than)
+test $x -lt $y;echo $?		(less than)
+test $x -ge $y;echo $?		(greater than or equals to)
+test $x -le $y;echo $?		(less than or equals to)
+
+
+who|tee /dev/tty|wc -l
+ls |tee /dev/tty|grep -l "poem" *|wc -l >count
+cat file>file  (earse all the content of file)
 
 ## ⚛️ Day 7 Commands :
 
 
 ## ⚛️ Day 8 Commands :
+process command
+ps
+ps - l
+ps -f (full screen )
+ps -e (all process )
+kill process_id
+kill -9 process_id  (super kill)
+& (at the end of command to make it background process)
+
+
+process scheduling
+
+at   (for one time scheduling)
+batch
+crontab
+
+## ⚛️ Day 9 Commands :
