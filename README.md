@@ -101,20 +101,20 @@
   - ***grep "pattern1"*** <filename>|grep "pattern2" <filename>  (pipe operator redirection used).
 
 ## ⚛️ Day 6 Commands :
-- /dev/null (special file of linux that has size of 0 bytes it's works like insularator)
-- /dev/tty (represent the own terminal)
+- **/dev/null** (special file of linux that has size of 0 bytes it's works like insularator)
+- **/dev/tty** (represent the own terminal)
 - | (pipe command)
 - (
    ls | wc -l
    who |wc -l
   )
-- tee
+- **tee**
 - ls |tee file
 
-- Command Substitution {`}
+- **Command Substitution {`}**
 - echo "Number of files are **{`ls |wc -l }** in present directorty"
 
-- Shell Variables
+- **Shell Variables**
 - $x 
 - expr $x + $y
 - expr $x - $y
