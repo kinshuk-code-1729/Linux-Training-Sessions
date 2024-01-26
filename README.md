@@ -1,4 +1,7 @@
 # ✨ Linux-Training-Sessions ✨
+
+![Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQi5xDarbYb4_p0yGpJ_29w6aHlBopNGD7g&usqp=CAU)
+
 ## ⚛️ Day 1 Commands :
 - ***cal* :** Prints an ASCII calendar of the given month or year.
 - **_date_ :** Displays the current date and time.
